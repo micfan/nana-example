@@ -1,2 +1,2 @@
-# nana-demo
-Demo for https://github.com/cnjinhao/nana
+# nana-example
+Example for https://github.com/cnjinhao/nana
